@@ -1,0 +1,66 @@
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center; 
+	height: 100px;
+	background-color: #FCDD3D5;
+	font-fmaily: "Ariel",sans-serif;
+	} 
+
+.header {width; 100x;
+         background-color:#4D685A;
+         padding: 20px 0;
+         text-align: center;
+         color: black;
+}
+
+.profie-img img{
+	width: 100px;
+	height: 100px;
+	vorder-radius: 58;
+	border: 2px solid #000000;
+	align-items: center;
+}
+
+.container {
+	background-color: #86615C;
+	padding: 20px;
+	border: 1px solid #86615C;
+	border-radius: 8px;
+	width: 320px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.form-group{
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+label {
+	color: #084C61;
+	font-weight: bold;
+}
+
+input {
+	padding: 10px;
+	border: 1px solid 084C61; /* pthalo	 */
+	border-radius: 4px;
+	background-color: #084C61;
+	font-size: 14px;
+	color: #0F0F0F;
+}	
+
+button{
+	width: 50%;
+	padding: 12px;	
+	background-color: ;
+	color: ;
+	border:none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bolder;
+	transition: background 0.3s;
+	align-items: center;
+}
